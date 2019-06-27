@@ -1,3 +1,23 @@
+# VS Code
+## Extention
+Korean Language Pack
+W3C Validation
+Sublime Text Keymap
+open in broser
+Live Server
+indent-rainbow
+htmltagwrap
+HTML S
+
+
+## color theme
+Materia
+Material Icon Theme
+
+
+
+
+
 # Jekyll Now
 
 **Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
