@@ -14,6 +14,11 @@ In a few minutes you'll be set up with a minimal, responsive blog like the one b
 
 ![Jekyll Now Theme Screenshot](/images/jekyll-now-theme-screenshot.jpg "Jekyll Now Theme Screenshot")
 
+## SVN Checksum error
+1. Directory backup
+2. svn update --set-depth empty  ( 파일이 삭제됨 - del )
+3. svn update --set-depth infinity  ( 파일이  추가됨 - add )
+
 ## Quick Start
 
 ### Step 1) Fork Jekyll Now to your User Repository
